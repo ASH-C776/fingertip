@@ -1,0 +1,62 @@
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/captures/
+android/.externalNativeBuild/
+android/.cxx/
+*.iml
+*.apk
+*.aab
+
+# Python
+server/.venv/
+server/build/
+server/dist/
+server/__pycache__/
+*.py[cod]
+*.log
+
+# 系统
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+
+# 工具/临时
+.trash/
+.workbuddy/
+
+# server 调试与诊断产物
+server/dev/
+server/_*.txt
+server/_*.png
+server/*_result.txt
+server/*_err.txt
+server/*_err2.txt
+server/*_err3.txt
+server/*.spec
+server/diag_result.txt
+server/icon_check.txt
+server/log_tail.txt
+server/perf_result.txt
+server/phone_screen*.png
+server/screen_check*.png
+server/test_auth_out.txt
+server/ui_dump*.xml
+server/gradle_wrapper_err.txt
+server/pythonw_test.txt
+server/add_fw_rule.ps1
+
+# android 构建日志
+android/build_release_log*.txt
+android/build_release_*.txt
+
+# 根目录临时/敏感文件（不要进仓库）
+_*.txt
+*.bat
