@@ -8,7 +8,16 @@
 
 ## 预览
 
-![主界面：已连接 & 触控板](assets/fp_main.png)
+<table>
+  <tr>
+    <td><img src="assets/fp_main.png" width="280" alt="主界面"/></td>
+    <td><img src="assets/fp_settings.png" width="280" alt="设置"/></td>
+  </tr>
+  <tr>
+    <td align="center">主界面 · 触控板</td>
+    <td align="center">设置 · 主题切换</td>
+  </tr>
+</table>
 
 ## 功能特性
 
